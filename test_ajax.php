@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<?php Hier geändert ?>
 <html lang="de">
   <head>
     <meta charset="utf-8" />
